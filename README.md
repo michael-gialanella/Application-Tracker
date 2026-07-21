@@ -4,8 +4,7 @@ A browser-based job-application tracker that imports relevant application emails
 
 ## Files
 
-- `application-tracker.html` — the complete application. It is intentionally a single self-contained file: HTML, CSS, and JavaScript.
-- `application-tracker-template.html` — a shareable copy with no Entra client ID. Replace `PASTE_YOUR_ENTRA_APPLICATION_CLIENT_ID_HERE` with the client ID from your own app registration.
+- `application-tracker-template.html` — the complete application. It is intentionally a single self-contained file: HTML, CSS, and JavaScript.  a shareable copy with no Entra client ID. Replace `PASTE_YOUR_ENTRA_APPLICATION_CLIENT_ID_HERE` with the client ID from your own app registration.
 - `start-applyflow.ps1` — optional local server launcher for Windows.
 
 ## Run locally
